@@ -12,7 +12,7 @@ My site has 5 pages and this is about my personal website for Project 0 from CS5
 I used a combination of bootstrap, css, w3-css, and other elements 
 
 ### Desktop version
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iii9MX1kIcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/Iii9MX1kIcQ
 
 ### Responsive version
 https://youtu.be/kgakdHAI_x0
