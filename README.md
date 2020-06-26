@@ -1,26 +1,43 @@
-# devfolio
-A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, Font Awesome and Flickity.
+# CS50W - Web Programming with Python and JavaScript
 
-View the [demo here](https://mmacneil.github.io/devfolio/).
+### Project 0 - Personal Website
+
+My site has 5 pages and this is about my personal website for Project 0 from CS50W - Web Programming with Python and JavaScript
+> Home
+> About
+> Movie
+> Resume
+> Contact
+
+I used a combination of bootstrap, css, w3-css, and other elements 
 
 ### Desktop version
-<img src="https://github.com/mmacneil/devfolio/blob/master/docs/devfolio-desktop.gif" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iii9MX1kIcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Responsive version
-<img src="https://github.com/mmacneil/devfolio/blob/master/docs/devfolio-responsive.gif" height="485" />
+https://youtu.be/kgakdHAI_x0
 
-## Setup
-
-1. Clone, fork or create a template from this repository.
-2. Install required dependencies from your terminal by running `npm install` from the project folder root containing `package.json`.
- <pre>
- <code>src\>npm install</code></pre>
-3. Use webpack to compile and bundle the css/js by running `npm run build` from the project folder root containing `webpack.config.js`.  Webpack will also begin watching these files for changes and re-build as they're modified.
- <pre>
- <code>src\>npm run build</code></pre>
- 4. Open `index.html` locally in your favorite browser.
- 5. Modify accordingly - styles, colors and variables can be changed in `styles.scss`.  Refer to the Bulma docs for guidance on how to quickly customize further to suit your tastes using  [color helpers](https://bulma.io/documentation/modifiers/color-helpers/) and [variables](https://bulma.io/documentation/customize/variables/).  See the [Flickity](https://github.com/metafizzy/flickity) docs if you wish to modify the carousel.
- 
- ## Contact
- markmacneil@gmail.com
- 
+### Requirements of this project
+>
+>Design a personal webpage about yourself, one of your interests, or any other topic of your choice. 
+>
+>The subject matter, look and feel, and design of the site are entirely up to you, subject to the following requirements:
+>
+>Your website must contain at least four different .html pages, and it should be possible to get from any page on your website to any other page by following one or more hyperlinks.
+>
+>Your website must include at least one list (ordered or unordered), at least one table, and at least one image.
+>
+>Your website must have at least one stylesheet file.
+>
+>Your stylesheet(s) must use at least five different CSS properties, and at least five different types of CSS selectors. 
+>
+>You must use the #id selector at least once, and the .class selector at least once.
+>
+>Your stylesheet(s) must include at least one mobile-responsive @media query, such that something about the styling changes for smaller screens.
+>
+>You must use Bootstrap 4 on your website, taking advantage of at least one Bootstrap component, and using at least two Bootstrap columns for layout purposes using Bootstrap’s grid model.
+>
+>Your stylesheets must use at least one SCSS variable, at least one example of SCSS nesting, and at least one use of SCSS inheritance.
+>
+>In README.md, include a short writeup describing your project, what’s contained in each file, and (optionally) any other additional information the staff should know about your project.
+>
